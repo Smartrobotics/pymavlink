@@ -1,2 +1,2 @@
 # Overview
-This is repository that practice for pymavlink.
+`pymavlink` 開発用リポジトリです。 
